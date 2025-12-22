@@ -1,6 +1,6 @@
 {
   "name": "pomd",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "\ud83c\udf45 A good old cli based Pomodoro timer with  native notifications",
   "main": "src/index.js",
   "scripts": {
